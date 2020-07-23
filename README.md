@@ -24,7 +24,7 @@ This application is to be a home for news, product, and contact information abou
 
 <br>
 
-![cepo homepage mobile ver screenshot](etc/cepo-mobile-screenshot.png)
+<img src="etc/cepo-mobile-screenshot.png" width="600px">
 
 <br>
 
