@@ -1,0 +1,72 @@
+/* COMMON */
+.summary__title {
+	font-size: 34px !important;
+}
+
+.summary__description {
+	font-size: 22px;
+}
+
+/* FEATURE SECTION */
+.section--feature .summary {
+	padding: 66px 20px 0;
+}
+
+.section--feature .tiles li {
+	width: 100%;
+	border-right: none;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.section--feature .tiles li:last-child {
+	border-bottom: none;
+}
+
+.section--feature .tiles li img {
+	padding-left: 30%;
+	padding-right: 30%;
+}
+
+/* WHERE IS SECTION */
+/* .section--where-is .container {
+	padding-left: 0;
+	padding-right: 0;
+} */
+
+#map {
+	width: auto;
+	margin-left: -20px;
+	margin-right: -20px;
+	border-left: none;
+	border-right: none;
+}
+
+/* PRICING SECTION */
+.section--pricing .container {
+	max-width: none;
+}
+
+.section--pricing .card {
+	display: block;
+}
+
+.section--pricing .card__cell--2 {
+	border-left: none;
+	border-top: 1px solid #e5e5e5;
+}
+
+/* FOOTER */
+footer .site-links {
+	float: none;
+	/* justify-content: center; */
+	display: block;
+	text-align: center;
+}
+
+footer .site-links:first-child {
+	margin-bottom: 20px;
+}
+
+footer .site-links li {
+	display: inline;
+}
