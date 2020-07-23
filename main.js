@@ -1,4 +1,4 @@
-(function (document) {
+(function (window, document) {
 	"use strict";
 
 	const $toggles = document.querySelectorAll(".toggle");
@@ -8,10 +8,22 @@
 		toggleElement();
 	});
 
+	window.addEventListener("resize", function () {
+		if (window.innerWidth > 1024) {
+			foldElement();
+		}
+	});
+
 	function toggleElement() {
 		// (array-like but not array) NodeList loop
 		[].forEach.call($toggles, (item) => {
 			item.classList.toggle("toggle--on");
 		});
 	}
-})(document);
+
+	function foldElement() {
+		[].forEach.call($toggles, (item) => {
+			item.classList.remove("toggle--on");
+		});
+	}
+})(window, document);
