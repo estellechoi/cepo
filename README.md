@@ -24,6 +24,10 @@ This application is to be a home for news, product, and contact information abou
 
 <br>
 
+![cepo homepage mobile ver screenshot](etc/cepo-mobile-screenshot.png)
+
+<br>
+
 ## Media options
 
 아이패드/아이폰 뷰포트 기준입니다.
