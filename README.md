@@ -32,6 +32,6 @@ This application is to be a home for news, product, and contact information abou
 | ------ | ------------ | ----------- |
 | Large  | Desktop      | >= `1024px` |
 | Medium | Tablet       | < `1024px`  |
-| Small  | Tablet/Phone | <= `768px`  |
+| Small  | Tablet/Phone | < `768px`   |
 
 <br>
