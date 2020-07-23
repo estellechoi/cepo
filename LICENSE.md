@@ -121,4 +121,4 @@ express Statement of Purpose.
     this CC0 or use of the Work.
     
     
-     [Link to the license](https://fontawesome.com/license)
+[Link to the license](https://fontawesome.com/license)
