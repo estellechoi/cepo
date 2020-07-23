@@ -6,7 +6,7 @@
 
 ## Overview
 
-This application is to be a home for news, product, and contact information about CEPO. The following concept and tool will be used.
+This application is to be a home for news, product, and contact information about the CEPO company. The following concept and tool will be used.
 
 - Single page application
 
