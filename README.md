@@ -26,10 +26,12 @@ This application is to be a home for news, product, and contact information abou
 
 ## Media options
 
-| Type   | Device       | Size(`px`)        |
-| ------ | ------------ | ----------------- |
-| Large  | Desktop      | `1024px` and over |
-| Medium | Tablet       | `1024px` and less |
-| Small  | Tablet/Phone | `768px` and less  |
+아이패드/아이폰 뷰포트 기준입니다.
+
+| Type   | Device       | Size(`px`)  |
+| ------ | ------------ | ----------- |
+| Large  | Desktop      | >= `1024px` |
+| Medium | Tablet       | < `1024px`  |
+| Small  | Tablet/Phone | <= `768px`  |
 
 <br>
