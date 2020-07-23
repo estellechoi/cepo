@@ -26,7 +26,7 @@ This application is to be a home for news, product, and contact information abou
 
 ## Media options
 
-|        | Device       | Size(`px`)        |
+| Type   | Device       | Size(`px`)        |
 | ------ | ------------ | ----------------- |
 | Large  | Desktop      | `1024px` and over |
 | Medium | Tablet       | `1024px` and less |
