@@ -17,3 +17,15 @@ This application is to be a home for news, product, and contact information abou
 ## Preview
 
 ![cepo homepage screenshot](etc/cepo-screenshot.png)
+
+<br>
+
+## Media options
+
+|        | Device       | Size(`px`)    |
+| ------ | ------------ | ------------- |
+| Large  | Desktop      | `1024px` 이상 |
+| Medium | Tablet       | `1024px` 이하 |
+| Small  | Tablet/Phone | `768px` 이하  |
+
+<br>
